@@ -21,6 +21,7 @@
 * [第十五章\(内容管理\)-Alpha](di-shi-si-7ae028-nei-rong-guan-740629-alpha.md)
 * [第十六章\(搜索\)-Alpha](di-shi-qi-7ae028-sou-7d2229.md)
 * [第十七章\(缓存\)-Alpha](di-shi-ba-7ae028-huan-5b5829-alpha.md)
-* [第十八章\(监控系统\)](di-shi-jiu-7ae028-jian-kong-xi-7edf29.md)
-* [第十九章\(里程碑\)](di-shi-jiu-7ae028-li-cheng-789129.md)
+* [第十八章\(监控系统\)-Alpha](di-shi-jiu-7ae028-jian-kong-xi-7edf29.md)
+* 第十九章\(二维码\)-Alpha
+* [第二十章\(里程碑\)](di-shi-jiu-7ae028-li-cheng-789129.md)
 
