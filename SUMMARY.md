@@ -5,12 +5,17 @@
   * [0.2、业务流程图](023001-ye-wu-liu-cheng-tu.md)
 * [第一章\(架构\)-Alpha](10miao-8ff029.md)
   * [1.0、总预览](10miao-8ff029/103001-hou-duan-jia-gou-56fe-v0-0-1-alpha.md)
-  * [1.1、负载均衡](10miao-8ff029/113001-fu-zai-jun-886128-loader-balancer.md)
-  * [1.2、服务调度中心](10miao-8ff029/123001-wai-bu-api-jie-53e328-web-server.md)
-  * [1.3、消息队列](10miao-8ff029/133001-diao-du-566828-dispatcher.md)
-  * 1.4、数据层
-  * [1.5、缓存](10miao-8ff029/153001-shu-ju-mo-xing-5c4228-data-module-layer.md)
-  * 1.6、CDN
+  * [异常类型](10miao-8ff029/yi-chang-lei-xing.md)
+  * 接口协议
+  * 调度器
+  * 数据库设计规范
+  * 框架目录
+  * 缓存
+  * 消息队列
+  * 推送
+  * 短信
+  * OSS\(CDN\)
+  * 负载均衡
 * [第二章\(协议\)-Alpha](di-er-7ae028-xie-8bae29.md)
 * [第三章\(状态\)-Alpha](di-san-7ae028-zhuang-600129-alpha.md)
 * [第四章\(异常\)-Alpha](di-si-7ae028-yi-5e3829-alpha.md)
