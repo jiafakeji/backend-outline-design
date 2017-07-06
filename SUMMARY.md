@@ -10,12 +10,15 @@
   * 调度器
   * 数据库设计规范
   * 框架目录
-  * 缓存
+  * [缓存](10miao-8ff029/huan-cun.md)
   * 消息队列
   * 推送
   * 短信
   * OSS\(CDN\)
   * 负载均衡
+  * 规范
+    * [编码规范](10miao-8ff029/bian-ma-gui-fan.md)
+    * 数据库设计规范
 * [第二章\(协议\)-Alpha](di-er-7ae028-xie-8bae29.md)
 * [第三章\(状态\)-Alpha](di-san-7ae028-zhuang-600129-alpha.md)
 * [第四章\(异常\)-Alpha](di-si-7ae028-yi-5e3829-alpha.md)
